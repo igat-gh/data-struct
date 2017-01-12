@@ -1,4 +1,4 @@
-### Priority queue task
+### Data Structures
 
 ### Prerequisites
 * Install [nodejs](https://nodejs.org/en/) (>= v6.2.0)
