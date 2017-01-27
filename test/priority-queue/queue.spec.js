@@ -1,5 +1,4 @@
-const Queue = require('../src/queue');
-const MaxHeap = require('../src/max-heap');
+const Queue = require('../../src/priority-queue/queue');
 
 describe('PriorityQueue', () => {
   describe('#constructor', () => {

@@ -1,5 +1,5 @@
-const Node = require('../src/node');
-const MaxHeap = require('../src/max-heap');
+const Node = require('../../src/max-heap/node');
+const MaxHeap = require('../../src/max-heap/max-heap');
 
 describe('MaxHeap', () => {
   describe('#constructor', () => {

@@ -1,4 +1,4 @@
-const MaxHeap = require('./max-heap.js');
+const MaxHeap = require('../max-heap/max-heap.js');
 
 class PriorityQueue {
   constructor(maxSize) {
